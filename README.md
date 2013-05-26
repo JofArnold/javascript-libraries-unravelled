@@ -6,9 +6,9 @@ So… As and when I see something interesting in my compiled JS files, I hope to
 
 The pages are hosted on the wiki pages of this repo:
 
-- ####[Syntax](https://github.com/JofArnold/behind-coffeescript/wiki/syntax)
-- ####Classes *(coming soon)*
-- ####Idioms *(coming soon)*
+- **[Syntax](https://github.com/JofArnold/behind-coffeescript/wiki/syntax)**
+- **Classes *(coming soon)***
+- **Idioms *(coming soon)***
 
 ## Todo:
 
