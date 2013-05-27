@@ -1,16 +1,24 @@
-# Behind CoffeeScript
+# JavaScript Libraries Unravelled
 
-Since using CoffeeScript (to be forever called CS from hereon in) I've become progressively lazier in my attempts to understand the JavaScript (JS) behind it all. To avoid brain rot, I started a scratch pad where I'd reverse-engineer and explain to myself the JS that's spat out. Then I thought - maybe it's useful to other people.
-
-So… As and when I see something interesting in my compiled JS files, I hope to add it here with an explanation of exactly how it works. I plan to go into the fundamentals as much as possible.
+With the arrival of CoffeeScript and CoffeeScript source maps, it's now possible to code sophisticated applications without touching a single line of JavaScript. No doubt some people are pretty happy with that, but no doubt many will still want to get under the hood and understand what's going on behind all this obfuscation.
 
 The pages are hosted on the wiki pages of this repo:
 
-- **[Syntax](https://github.com/JofArnold/behind-coffeescript/wiki/syntax)**
-- **Classes *(coming soon)***
-- **Idioms *(coming soon)***
 
-## Todo:
+
+
+### CoffeeScript
+
+- [Fat arrow,`=>`](https://github.com/JofArnold/javascript-libraries-unravelled/wiki/CoffeeScript-Fat-Arrow)
+- [Array manipulation](https://github.com/JofArnold/javascript-libraries-unravelled/wiki/CoffeeScript-Array-Manipulation)
+- `constructor` and `extends` *[coming soon]*
+
+### Underscore
+
+- _.bindAll *[coming soon]*
+
+
+## Todo
 
 Please feel free to make comments and amend. This is a work in progress and I've not necessarily checked all the code compiles and is free of typos.
 
