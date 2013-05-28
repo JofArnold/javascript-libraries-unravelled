@@ -13,6 +13,7 @@ I hope this is useful to someone! Let me know if you'd like me to delve into a p
 
 - [Fat arrow,`=>`](https://github.com/JofArnold/javascript-libraries-unravelled/wiki/CoffeeScript-Fat-Arrow)
 - [Array manipulation](https://github.com/JofArnold/javascript-libraries-unravelled/wiki/CoffeeScript-Array-Manipulation)
+- [`class`](https://github.com/JofArnold/javascript-libraries-unravelled/wiki/CoffeeScript-Class-Creation)
 
 ### Underscore
 
